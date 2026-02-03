@@ -9,10 +9,10 @@ a {
   color: #DB7093;
 }
 a:visited {
-  color: #DB7093;
+  color: #C71585;
       }     
 a:hover {
-  color: #DB7093;
+  color: #FF1493;
       }
       ul {
   list-style: none;
@@ -133,7 +133,7 @@ a:hover {
   padding: 12px 30px;
   margin-top: 30px;
   cursor: pointer;
-  color: #FFF;
+  color: #FFFAFA;
   background-color: #FF69B4;
 }
 .flat-page .content .image img {
