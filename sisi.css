@@ -9,10 +9,10 @@ a {
   color: #DB7093;
 }
 a:visited {
-  color: #FF0000;
+  color: #ffffff;
       }     
 a:hover {
-  color: #FF00FF;
+  color: black;
       }
       ul {
   list-style: none;
@@ -74,7 +74,7 @@ a:hover {
 }
 .flat-page header .links li {
   margin-left: 10px;
-  color: #ffffff;
+  color: black;
   cursor: pointer;
   transition: .3s;
 }
@@ -126,7 +126,7 @@ a:hover {
   padding: 12px 30px;
   margin-top: 30px;
   cursor: pointer;
-  color: #ffffff;
+  color: white;
   background-color: #FF69B4;
 }
 .flat-page .content .image img {
