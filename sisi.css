@@ -6,10 +6,10 @@ body {
   background: linear-gradient(120deg, #FFFFFF, #FFC0CB, #DB7093);
 }
 a {
-  color: #DB7093;
+  color: #FFC0CB;
 }
 a:visited {
-  color: #FFFFFF;
+  color: #DB7093;
       }     
 a:hover {
   color: #000000;
@@ -86,8 +86,8 @@ a:hover {
 .flat-page header .links li:last-child {
   border-radius: 20px;
   padding: 10px 20px;
-  color: #FFFFFF;
-  background-color: #FF69B4;
+  color: #FF69B4;
+  background-color: #FFFFFF;
 }
 .flat-page .content .container {
   display: flex;
@@ -126,8 +126,8 @@ a:hover {
   padding: 12px 30px;
   margin-top: 30px;
   cursor: pointer;
-  color: #FFFFFF;
-  background-color: #FF69B4;
+  color: #FF69B4;
+  background-color: #FFFFFF;
 }
 .flat-page .content .image img {
   max-width: 120%;
