@@ -74,7 +74,7 @@ a:hover {
 }
 .flat-page header .links li {
   margin-left: 10px;
-  color: #DB7093;
+  color: #ffffff;
   cursor: pointer;
   transition: .3s;
 }
@@ -86,8 +86,8 @@ a:hover {
 .flat-page header .links li:last-child {
   border-radius: 20px;
   padding: 10px 20px;
-  color: #FFF;
-  background-color: #FFFAFA;
+  color: white;
+  background-color: #FF69B4;
 }
 .flat-page .content .container {
   display: flex;
