@@ -34,7 +34,7 @@ html {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
-    background-color: #F5FFFA;
+    background-color: #90EE90;
   }     
     
 *{
@@ -445,6 +445,6 @@ img {
   margin-top: 6vw;
   margin-left: 525px;
   z-index: 1;
- filter: drop-shadow(4px 10px 15px #F5FFFA);
+ filter: drop-shadow(4px 10px 15px #90EE90);
 }
 }
