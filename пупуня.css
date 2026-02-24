@@ -21,7 +21,7 @@ html, body {
   line-height: 1.3;
 }
 img {
-width: 95%;
+width: 100%;
   }
 
 #text {
@@ -203,7 +203,7 @@ nav.show {
 
   padding: 80px;
 
-  margin-top: -30px;
+  margin-top: -60px;
 
 }
 #menu-button {
