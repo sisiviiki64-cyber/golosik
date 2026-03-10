@@ -9,7 +9,7 @@ body {
   position: relative;
   font-family: "Roboto", sans-serif;
 }
-player {
+.player {
   position: absolute;
   background-image: url("https://raw.githack.com/sisiviiki64-cyber/golosik/06d089fefe64412a5729e2694d0ed5aff3e83f0c/%20-2.jpg");
   left: 50%;
