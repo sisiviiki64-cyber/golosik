@@ -16,16 +16,16 @@ const IMAGE_SRCS = [
 const IMAGE_ASPECTS = [1, 1, 1, 1, 1, 1];
 const FACE_NAMES = [
 
-  "E",
+  "EIPHORIA",
 
-  "R",
+  "RU",
 
-  "D",
+  "DZHULS",
 
-  "M",
+  "MEDDY",
 
-  "K",
+  "KESSY",
 
-  "N"
+  "NATE"
 
 ];
